@@ -1,5 +1,7 @@
 import { useState } from "react";
 
+// to start react app on local server 
+// run npm start in admin terminal window.
 
 // Additional todos 
 // If you have extra time or want to practice your new React skills, here are some ideas for improvements that you could make to the tic-tac-toe game, listed in order of increasing difficulty:
